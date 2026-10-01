@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,slee2373,Lee,Suhyeon
 employee,lu524,Lu,Yu
